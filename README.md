@@ -19,7 +19,6 @@ Este projeto é um chatbot desenvolvido em Python, utilizando a biblioteca `cust
 ```
 Chatbot/
 │
-├── chatbot.py        # Código principal do chatbot
 ├── interface.py      # Código da interface gráfica
 ├── papel_aviao.png   # Ícone do papel de avião
 ├── requirements.txt   # Lista de dependências do projeto
