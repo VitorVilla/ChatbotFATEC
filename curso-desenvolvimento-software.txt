@@ -1,0 +1,92 @@
+Estrutura do Curso
+Modalidade: Presencial com 20% da carga horária oferecida remotamente (aulas remotas síncronas).
+Carga Horária Total: 2.400 horas (2880 aulas de 50 minutos cada).
+Estágio Supervisionado: 240 horas obrigatórias.
+Duração: 6 semestres (mínimo de 3 anos, máximo de 5 anos).
+Vagas: 40 por turno (noturno).
+Forma de Acesso: Vestibular (prova única com questões do Ensino Médio) ou processo seletivo para vagas remanescentes.
+
+Semestres e Disciplinas
+Primeiro Semestre - 1 semestre
+Algoritmo e Lógica de Programação: Desenvolver competências para distinguir e aplicar metodologias de desenvolvimento de software, além de criar algoritmos e programas de computador, aplicando conceitos de lógica de programação.
+Desenvolvimento Web I: Introduzir os alunos ao desenvolvimento de aplicações web, utilizando linguagens de marcação e programação para criar páginas web estáticas e dinâmicas.
+Design Digital: Ensinar os princípios de design digital, focando na criação de interfaces gráficas, experiência do usuário e interação com sistemas computacionais.
+Engenharia de Software I: Apresentar os conceitos básicos de engenharia de software, incluindo o ciclo de vida do software e as metodologias de desenvolvimento.
+Modelagem de Banco de Dados: Introduzir o aluno à modelagem de dados, focando em banco de dados relacionais e as técnicas para projetar estruturas de armazenamento eficientes.
+Sistemas Operacionais e Redes de Computadores: Ensinar os fundamentos de sistemas operacionais e redes, preparando os alunos para compreender as interações entre hardware e software.
+
+Segundo Semestre - 2 semestre 
+Técnica de Programação I: Desenvolver habilidades em programação orientada a objetos, com foco em abstração, encapsulamento, herança e polimorfismo, além de interfaces gráficas e controle de exceções.
+Desenvolvimento Web II: Avançar no desenvolvimento web, trabalhando com frameworks, banco de dados e criando APIs para aplicações.
+Matemática para Computação: Prover os fundamentos matemáticos para apoiar o desenvolvimento de algoritmos e soluções computacionais.
+Engenharia de Software II: Aprofundar os conceitos de engenharia de software, com ênfase no gerenciamento de requisitos, design e validação de software.
+Banco de Dados Relacional: Ensinar como trabalhar com bancos de dados relacionais, focando em consultas SQL e manipulação de dados.
+Estrutura de Dados: Introduzir as principais estruturas de dados (listas, pilhas, filas, árvores) e suas implementações.
+
+Terceiro Semestre - 3 semestre
+Técnica de Programação II: Aplicar padrões de projeto no desenvolvimento de aplicações orientadas a objetos.
+Desenvolvimento Web III: Focar no desenvolvimento de aplicações web escaláveis e seguras, utilizando práticas de integração e entrega contínua.
+Álgebra Linear: Fornecer uma base sólida em álgebra linear para auxiliar na resolução de problemas computacionais e em machine learning.
+Gestão Ágil de Projetos de Software: Ensinar metodologias ágeis de gestão de projetos, como Scrum e Kanban, para o desenvolvimento de software.
+Banco de Dados Não-Relacional: Trabalhar com bancos de dados NoSQL, entendendo suas características e aplicações.
+Interação Humano-Computador: Ensinar princípios de design de interfaces e interação com sistemas, focando na experiência do usuário.
+
+QUuarto Semestre - 4 semestre
+Integração e Entrega Contínua: Ensinar as melhores práticas para integração e entrega contínua de software, incluindo versionamento e automação de testes.
+Laboratório de Desenvolvimento Web: Oferecer um ambiente prático para aplicar conceitos de desenvolvimento web, com foco em projetos práticos.
+Internet das Coisas (IoT): Introduzir o conceito de IoT e capacitar os alunos para desenvolver sistemas conectados e inteligentes.
+Programação para Dispositivos Móveis I: Ensinar o desenvolvimento de aplicações móveis, com foco em Android e iOS.
+Estatística Aplicada: Prover conhecimentos de estatística para análise de dados, aplicáveis a projetos de software e machine learning.
+Experiência do Usuário (UX): Aprofundar os conceitos de UX, focando em como melhorar a interação e a satisfação dos usuários.
+
+Quinto Semestre - 5 semestre
+Computação em Nuvem I: Ensinar os fundamentos de computação em nuvem e infraestrutura de servidores virtuais.
+Aprendizagem de Máquina: Introduzir o aluno aos conceitos e algoritmos de machine learning, aplicando-os a problemas reais.
+Laboratório de Desenvolvimento Móvel: Aplicar as técnicas de desenvolvimento de aplicativos móveis em um ambiente de laboratório prático.
+Programação para Dispositivos Móveis II: Avançar no desenvolvimento de aplicações móveis, integrando novas tecnologias e frameworks.
+Segurança no Desenvolvimento de Aplicações: Ensinar boas práticas de segurança no desenvolvimento de software, protegendo dados e garantindo a integridade de sistemas.
+
+6 Semestre - sexto semestre
+Computação em Nuvem II: Aprofundar os conceitos de computação em nuvem, com foco em arquiteturas escaláveis e automação.
+Processamento de Linguagem Natural (PLN): Introduzir os alunos às técnicas e ferramentas de PLN para desenvolver sistemas que entendem e processam linguagem humana.
+Mineração de Dados: Ensinar técnicas de mineração de dados para extrair informações valiosas de grandes conjuntos de dados.
+Qualidade e Testes de Software: Focar na garantia da qualidade de software por meio de testes automatizados e metodologias de validação.
+
+
+Certificações e Microcertificações
+O aluno obtém 6 Microcertificações e 3 Certificações Intermediárias ao longo do curso, garantindo feedback contínuo de desempenho. Ao final, o aluno recebe o diploma de Tecnólogo em Desenvolvimento de Software Multiplataforma.
+Exemplo de Microcertificações: Front-End Básico, Design Patterns Básico, UX Básico.
+Certificações Intermediárias: Desenvolvedor Front-End, Desenvolvedor Back-End, Desenvolvedor para Dispositivos Móveis.
+
+Regras da Faculdade
+Estágio Curricular Supervisionado: 240 horas obrigatórias.
+Projeto Integrador: O portfólio digital será construído ao longo dos semestres e substitui o Trabalho de Graduação. Os projetos desenvolvidos nos últimos semestres são utilizados para compor esse portfólio.
+Horas Complementares: Não especificado diretamente, mas há uma forte ênfase em projetos interdisciplinares e em pesquisa, que podem ser parte das atividades complementares.
+
+Metodologia de Ensino:
+O curso utiliza uma abordagem centrada no aluno, com metodologias ativas, como aprendizagem baseada em problemas (PBL), projetos interdisciplinares e estudo de casos.
+Há um foco em aprendizado prático e desenvolvimento de competências que refletem demandas do mercado de trabalho.
+As atividades são projetadas para estimular o desenvolvimento de habilidades como trabalho em equipe, autonomia, resolução de problemas, além de competências técnicas.
+Recursos Tecnológicos:
+O curso faz uso de ferramentas digitais e ambientes virtuais de aprendizagem, como o Microsoft Teams, para as aulas remotas e acompanhamento de atividades.
+Há laboratórios especializados, incluindo laboratórios de hardware e software, que são integrados ao conteúdo curricular, oferecendo suporte para o aprendizado prático.
+
+Critérios de Avaliação:
+Avaliações contínuas são feitas ao longo do curso, envolvendo provas, trabalhos práticos e desenvolvimento de projetos.
+Além disso, as microcertificações mencionadas são integradas ao sistema de avaliação, proporcionando ao aluno feedback sobre suas competências adquiridas em várias etapas do curso.
+
+Trilhas de Carreira:
+O curso é projetado para que os alunos sigam trilhas de carreira focadas em Desenvolvimento Web, Desenvolvimento Mobile e Back-End.
+Essas trilhas são complementadas com certificações intermediárias que facilitam a inserção no mercado de trabalho mesmo antes da conclusão do curso.
+
+Integração com o Mercado:
+O curso possui parcerias com empresas do setor de tecnologia, facilitando a inserção dos alunos no mercado de trabalho por meio de estágios, projetos colaborativos e eventos de networking.
+Além disso, as competências desenvolvidas ao longo do curso são diretamente relacionadas às demandas atuais do mercado de desenvolvimento de software.
+
+Perfil do Egresso:
+O perfil do egresso é focado em um profissional capaz de atuar em diversas áreas do desenvolvimento de software, como análise, desenvolvimento e manutenção de sistemas para diferentes plataformas.
+O egresso também está preparado para continuar aprendendo novas tecnologias e adaptando-se a mudanças rápidas no setor.
+
+Atendimento ao Estudante:
+A faculdade oferece suporte acadêmico e de orientação profissional aos alunos por meio de monitorias, orientações de professores e apoio na construção do portfólio profissional.
+

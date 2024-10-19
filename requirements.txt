@@ -1,2 +1,10 @@
 customtkinter==5.2.2
 Pillow==9.4.0
+spacy
+pt-core-news-md
+nltk
+scikit-learn
+numpy
+requests
+transformers
+torch
