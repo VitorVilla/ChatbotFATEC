@@ -7,6 +7,7 @@ Este projeto é um chatbot desenvolvido em Python, utilizando a biblioteca `cust
 - Interface gráfica intuitiva com design responsivo.
 - Respostas do chatbot aparecem de forma gradual, letra por letra.
 - Possibilidade de fazer perguntas e obter respostas instantaneamente.
+- Análise de sentimentos de acordo com sua pergunta ou resposta.
 
 ## Tecnologias Utilizadas
 
@@ -34,12 +35,20 @@ Chatbot/
    cd chatbot-fatec
    ```
 
-2. Instale as dependências necessárias:
+2. Crie um ambiente virtual e entre nele:
+```bash
+   virtualenv venv
+   source venv/bin/activate (linux comand)
+   cd venv/Scripts/activate (windows comand)
+``` 
+
+3. Instale as dependências necessárias:
    ```bash
    pip install -r requirements.txt
+   python -m spacy download pt_core_news_md
    ```
 
-3. Execute o programa:
+4. Execute o programa:
    ```bash
    python interface.py
    ```
